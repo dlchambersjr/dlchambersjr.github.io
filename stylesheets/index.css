@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa:700|Righteous');
 
 html {
-    width: 100%;
+    width:92%;
     height: 100%;
 }
 
@@ -44,6 +44,7 @@ nav a {
     padding:5px 20px 5px 20px;
     border-radius: 8px;
     margin-right:20px;
+    margin-bottom: 25px;
     font-family: 'Righteous', cursive;
     font-size:16px;
     text-decoration:none;
@@ -56,7 +57,7 @@ nav a:hover {
 
 nav ul {
     margin: 0px;
-    width:100%;
+    width:92%;
     list-style-type: none;
 }
 
@@ -99,13 +100,40 @@ section {
    
 }
 
+section img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
 section h1{
-    
+    font-family: 'Righteous', cursive;
+    font-size: 50px;
+    color:red;
+    text-align: center;
+
 }
 
 section h2{
        
 }
+
+section ul {
+    list-style-type: none;
+}
+
+section p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin:25px;
+    color: navy;
+    text-emphasis: bold;
+   
+
+}
+
 
 footer {
     
