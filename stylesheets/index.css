@@ -11,12 +11,12 @@ body {
 }
 
 header {
-    padding: 5px;
-    margin: 10px 25px;
+    width: 92%;
     border: solid 3px black;
     border-radius: 20px;
+    padding: 5px;
+    margin: 10px 25px;
     text-align: center;
-    width: 92%;
     font-family: 'Righteous', cursive;
 }
 
@@ -112,11 +112,12 @@ section h1{
     font-size: 50px;
     color:red;
     text-align: center;
-
 }
 
 section h2{
-       
+    font-size: 30px;
+    font-family: 'Comfortaa', cursive;
+    Color:navy;
 }
 
 section ul {
