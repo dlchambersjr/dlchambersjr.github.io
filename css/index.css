@@ -2,16 +2,16 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa:700|Righteous');
 
 html {
-    width:92%;
-    height: 100%;
+    /* TBD */
 }
 
 body {
-
+    width:960px;
+   margin: 0 auto;
 }
 
 header {
-    width: 92%;
+    width: 100%;
     border: solid 3px black;
     border-radius: 20px;
     padding: 5px;
